@@ -9,5 +9,5 @@ gulp.task('sass', function() {
         '/app/node_modules/susy/sass'
       ]
     }))
-    .pipe(gulp.dest('/data/css-gulp'));
+    .pipe(gulp.dest('/data/css'));
 });

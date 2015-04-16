@@ -1,7 +1,7 @@
 {
   "name": "gulp-sass-susy",
   "version": "1.0.0",
-  "description": "Docker container for running gulp-sass w/ Susy.",
+  "description": "Docker container for running gulp-sass with Susy.",
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
