@@ -1,0 +1,21 @@
+{
+  "name": "gulp-sass-susy",
+  "version": "1.0.0",
+  "description": "Docker container for running gulp-sass w/ Susy.",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/revett/gulp-sass-susy"
+  },
+  "author": "@charlierevett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revett/gulp-sass-susy/issues"
+  },
+  "homepage": "https://github.com/revett/gulp-sass-susy",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-sass": "^1.3.3",
+    "susy": "^2.2.2"
+  }
+}
